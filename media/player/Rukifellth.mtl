@@ -1,0 +1,79 @@
+# Blender3D MTL File: Rukifellth.blend
+# Material Count: 7
+newmtl Material.002_Cape+Swo_Cape+Sword.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.367500 0.442500 0.567500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Cape+Sword.png
+
+
+newmtl Material.001_Arms+Sto_Arms+Stomach.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.294000 0.358000 0.458000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Arms+Stomach.png
+
+
+newmtl Material.002_Face.png_Face.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.367500 0.442500 0.567500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Face.png
+
+
+newmtl Material.013_Cape+Swo_Cape+Sword.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.367500 0.442500 0.567500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Cape+Sword.png
+
+
+newmtl Material.002_Hat+Tors_Hat+Torso.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.367500 0.442500 0.567500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Hat+Torso.png
+
+
+newmtl Material.044_Cape+Swo_Cape+Sword.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.452500 0.637500 0.637500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Cape+Sword.png
+
+
+newmtl Material.017_Hat+_Hat+Parts.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.302000 0.354000 0.454000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Hat+Parts.png
+
+
